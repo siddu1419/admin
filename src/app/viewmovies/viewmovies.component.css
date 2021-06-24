@@ -1,0 +1,36 @@
+#t1{
+    margin-top: 500px;
+    background-image: linear-gradient(to right, rgb(0, 0, 0),black);
+    color: #b4fe76;
+    padding: 10px;
+    
+}
+
+
+#d2{
+    margin:5px;
+    
+    background-image: linear-gradient(135deg, #ff2600, #6e1003);
+    box-sizing: border-box;
+    color:black;
+    border-radius: 15px;
+    font-weight: bolder;
+    background: #a19ae0;
+}
+#d2:hover{
+    background: transparent;
+    background-image: linear-gradient(135deg, #b20000, #6e1003);
+
+  }
+
+#d1{
+    background-color:#b4fe76;
+    color: rgb(0, 0, 0);
+}
+
+
+.card-title{
+    background-color: #b4fe76;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+}
